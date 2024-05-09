@@ -1,0 +1,14 @@
+# ninja log v5
+1	71	7324004091099683	build.ninja	9061cf3c34779ca
+49	95	7323992975084727	PracticaUNO.exe	ce884a629b615e48
+1	48	7323992974636794	CMakeFiles/PracticaUNO.dir/main.c.obj	d0d874fed69b2941
+6	48	7323992974636794	CMakeFiles/PracticaUNO.dir/player.c.obj	eb58bcfa54ba4d15
+4	49	7323992974636794	CMakeFiles/PracticaUNO.dir/card.c.obj	89b80446cbf0cf1c
+8	49	7323992974641822	CMakeFiles/PracticaUNO.dir/game.c.obj	fa4c8244873589a9
+2	45	7324004112575760	CMakeFiles/PracticaUNO.dir/card.c.obj	cdc258346d06b7bc
+4	46	7324004112590822	CMakeFiles/PracticaUNO.dir/main.c.obj	b862f0d6c0a82f31
+8	46	7324004112590822	CMakeFiles/PracticaUNO.dir/player.c.obj	9fb6e535256685fe
+6	46	7324004112590822	CMakeFiles/PracticaUNO.dir/game.c.obj	1a822ccf06ac1bb4
+46	91	7324004113017816	PracticaUNO.exe	ce884a629b615e48
+1	48	7324098934382297	CMakeFiles/PracticaUNO.dir/player.c.obj	9fb6e535256685fe
+49	113	7324098935005393	PracticaUNO.exe	ce884a629b615e48

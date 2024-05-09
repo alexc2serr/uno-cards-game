@@ -1,0 +1,3 @@
+C:/Users/Usuario/OneDrive/Documentos/!!!Universidad/dataStructures/TI1_ASerrano/cmake-build-debug/CMakeFiles/PracticaUNO.dir
+C:/Users/Usuario/OneDrive/Documentos/!!!Universidad/dataStructures/TI1_ASerrano/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Usuario/OneDrive/Documentos/!!!Universidad/dataStructures/TI1_ASerrano/cmake-build-debug/CMakeFiles/rebuild_cache.dir
